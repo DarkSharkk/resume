@@ -1,3 +1,3 @@
-# Git and Github
+# My first resume
 
 This is my first expirience
